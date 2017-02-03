@@ -2,6 +2,8 @@
   "name": "a4-ember",
   "dependencies": {
     "ember": "~2.9.0",
-    "ember-cli-shims": "0.1.3"
+    "ember-cli-shims": "0.1.3",
+    "bootstrap-sass": "~3.3.7",
+    "gmaps-for-apps": "^0.5.14"
   }
 }
